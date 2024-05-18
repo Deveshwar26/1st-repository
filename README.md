@@ -1,4 +1,4 @@
-# amazon-home-page
-amazon-home-page
+# Demo repo
+My first repository
 <br>
 Author - Deveshwar 
